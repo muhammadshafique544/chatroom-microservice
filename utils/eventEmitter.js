@@ -17,7 +17,6 @@ class EventEmitter {
           console.log(`No listeners registered for event: ${event}`);
         }
       }
-      
   }
   
   module.exports = { EventEmitter };
