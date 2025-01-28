@@ -1,0 +1,26 @@
+{
+  "name": "chatroom-microservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "test": "jest --runInBand",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "ioredis": "^5.4.2",
+    "nodemon": "^3.1.9",
+    "redis": "^4.7.0",
+    "uuid": "^11.0.5",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
