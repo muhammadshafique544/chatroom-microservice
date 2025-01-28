@@ -22,7 +22,7 @@ WSS
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/chat-room-microservice.git
+git clone https://github.com/muhammadshafique544/chatroom-microservice.git
 cd chatroom-microservice
 ```
 2. Install Dependencies:
